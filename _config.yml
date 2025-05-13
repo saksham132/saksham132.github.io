@@ -1,3 +1,35 @@
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Saksham Gupta
+description: >
+  Software Developer | Machine Learning Enthusiast | Open Source Contributor  
+  This is my personal website and portfolio.
+baseurl: "" # Keep this empty if using username.github.io as the domain
+url: "https://saksham132.github.io" # Replace with your GitHub Pages URL
+
+# Author details (optional)
+author:
+  name: Your Name
+  email: your.email@example.com
+
+# Build settings
+theme: jekyll-theme-minimal
+
+# Optional social links
+social_links:
+  - title: GitHub
+    url: https://github.com/yourusername
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/yourusername/
+  - title: Twitter
+    url: https://twitter.com/yourhandle
+
+# Google Analytics (optional)
+# google_analytics: UA-XXXXXXXX-X
+
+# Markdown processor
+markdown: kramdown
+
+# Exclude these files from the site output
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
