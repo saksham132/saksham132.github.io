@@ -1,12 +1,12 @@
 Incoming graduate student in Genome Sciences at University of Washington, Seattle, WA, USA
 
 # Education
-Bachelor of Technology at Indian Institute of Technology Kanpur, India 
+BTech., Mechanical Engineering, Indian Institute of Technology Kanpur, India (July 2023)
 
 # Saksham Gupta
 
 Welcome to my personal academic portfolio!  
-[Visit my website](https://yourusername.github.io)  
+[Visit my website](https://saksham132.github.io)  
 
 ---
 
@@ -92,8 +92,8 @@ At Fred Hutch, I participated in the **Openscapes Champions Program**, promoting
 ## 📫 Contact
 
 📧 [saksham.gupta.y19@gmail.com](mailto:saksham.gupta.y19@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/yourusername)  
-🐙 [GitHub](https://github.com/yourusername)  
+🔗 [LinkedIn](https://www.linkedin.com/in/saksham-gupta-392a3a202/)  
+🐙 [GitHub](https://github.com/saksham132)  
 
 ---
 
