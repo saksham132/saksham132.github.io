@@ -3,9 +3,6 @@
 # Education
 BTech., Mechanical Engineering, Indian Institute of Technology Kanpur, India (July 2023)
 
-# Saksham Gupta
-![Alt text](assets/self_pic.jpg)
-
 ## 🧬 About Me
 
 I am a biomedical researcher passionate about uncovering the mechanisms that drive human diseases and translating scientific discoveries into therapeutic insights. Trained as a mechanical engineer at IIT Kanpur, my curiosity in cellular biology and genomics inspired a career pivot toward biomedical research. 
