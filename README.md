@@ -1,14 +1,10 @@
-Incoming graduate student in Genome Sciences at University of Washington, Seattle, WA, USA
+## Incoming graduate student in Genome Sciences at University of Washington, Seattle, WA, USA
 
 # Education
 BTech., Mechanical Engineering, Indian Institute of Technology Kanpur, India (July 2023)
 
 # Saksham Gupta
-
-Welcome to my personal academic portfolio!  
-[Visit my website](https://saksham132.github.io)  
-
----
+![Alt text](assets/self_pic.jpg)
 
 ## 🧬 About Me
 
