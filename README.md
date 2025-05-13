@@ -1,7 +1,11 @@
-## Incoming graduate student in Genome Sciences at University of Washington, Seattle, WA, USA
+## Incoming graduate student 
+### Genome Sciences at University of Washington - Seattle
 
-# Education
-BTech., Mechanical Engineering, Indian Institute of Technology Kanpur, India (July 2023)
+## 🎓 Education
+B.Tech in Mechanical Engineering - **Indian Institute of Technology Kanpur** 
+*Graduated with Distinction
+
+---
 
 ## 🧬 About Me
 
@@ -63,14 +67,7 @@ I currently work at the **Fred Hutch Cancer Center** in Seattle as a **Post-bacc
 **Other:**  
 - Mouse handling & dissection, histological analysis, GitHub workflows  
 
----
 
-## 🎓 Education
-
-**Indian Institute of Technology Kanpur** – B.Tech in Mechanical Engineering  
-*Graduated with Distinction | CGPA: 8.7/10*  
-- Relevant Coursework: Bioinformatics, Molecular Cell Biology, Computational Genomics, Tissue Engineering  
-- Awarded Academic Excellence and ranked among top 10% of class  
 
 ---
 
