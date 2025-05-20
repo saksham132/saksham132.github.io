@@ -1,9 +1,11 @@
-## Incoming graduate student 
-### Genome Sciences at University of Washington - Seattle
-
 ## 🎓 Education
-B.Tech in Mechanical Engineering
-**Indian Institute of Technology Kanpur, India** (May 2023)
+
+**Incoming graduate student**  
+*Genome Sciences @ University of Washington - Seattle* (Starting Fall 2025)
+
+
+**Bachelor of Technology in Mechanical Engineering**  
+*Indian Institute of Technology Kanpur, India* (May 2023)  
 GPA: 8.7 *(with Distinction)*
 
 ---
