@@ -2,8 +2,9 @@
 ### Genome Sciences at University of Washington - Seattle
 
 ## 🎓 Education
-B.Tech in Mechanical Engineering - **Indian Institute of Technology Kanpur** 
-*Graduated with Distinction
+B.Tech in Mechanical Engineering
+**Indian Institute of Technology Kanpur, India** (May 2023)
+GPA: 8.7 *(with Distinction)*
 
 ---
 
