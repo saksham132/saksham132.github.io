@@ -1,5 +1,8 @@
-<ul>
-  {% for item in site.social_links %}
-    <li>{{ item.icon }} <a href="{{ item.url }}">{{ item.name }}</a></li>
-  {% endfor %}
-</ul>
+---
+layout: default
+title: Home
+---
+
+# Hi, I'm Saksham
+
+Welcome to my site. More content coming soon
