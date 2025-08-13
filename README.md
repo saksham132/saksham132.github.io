@@ -13,7 +13,7 @@ As a **Post-baccalaureate Scholar** at the **Fred Hutch Cancer Center** in Seatt
 *Genome Sciences @ University of Washington - Seattle* (Starting Fall 2025)
 
 
-**Undergraduate - Bachelor of Technology**
+**Undergraduate - Bachelor of Technology**  
 *Mechanical Engineering @ Indian Institute of Technology Kanpur, India (May 2023)*   
 GPA: 8.7 *(with Distinction)*
 
