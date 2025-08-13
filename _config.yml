@@ -13,3 +13,5 @@ logo: assets/self_pic.jpg
 #     url: https://github.com/saksham132
 
 remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
