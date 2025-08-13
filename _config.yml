@@ -1,16 +1,16 @@
 title: Saksham Gupta
 description: Aspiring Biomedical Scientist
 logo: assets/self_pic.jpg
-# social_links:
-#   - name: Gmail
-#     icon: 📧
-#     url: mailto:saksham.gupta.y19@gmail.com
-#   - name: LinkedIn
-#     icon: 🔗
-#     url: https://www.linkedin.com/in/saksham-gupta-392a3a202/
-#   - name: GitHub
-#     icon: 🐙
-#     url: https://github.com/saksham132
+social_links:
+  - name: Gmail
+    icon: 📧
+    url: mailto:saksham.gupta.y19@gmail.com
+  - name: LinkedIn
+    icon: 🔗
+    url: https://www.linkedin.com/in/saksham-gupta-392a3a202/
+  - name: GitHub
+    icon: 🐙
+    url: https://github.com/saksham132
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
