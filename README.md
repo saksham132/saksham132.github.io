@@ -4,8 +4,8 @@
 *Genome Sciences @ University of Washington - Seattle* (Starting Fall 2025)
 
 
-**Bachelor of Technology in Mechanical Engineering**  
-*Indian Institute of Technology Kanpur, India* (May 2023)  
+**Undergraduate - Bachelor of Technology**
+*Mechanical Engineering @ Indian Institute of Technology Kanpur, India (May 2023)*   
 GPA: 8.7 *(with Distinction)*
 
 ---
