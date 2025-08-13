@@ -12,7 +12,7 @@ GPA: 8.7 *(with Distinction)*
 
 ## 🧬 About Me
 
-I am a biomedical researcher passionate about innovating genomic tools and computational approaches to address key biological questions and human diseases. I completed my undergrad in mechanical engineering from IIT Kanpur, where my curiosity in cellular biology and genomics inspired me to transition into bioscience research. 
+I am a biomedical researcher passionate about innovating genomic tools and computational approaches to address key biological questions and human diseases. I completed my undergrad in mechanical engineering from **IIT Kanpur**, where my curiosity in cellular biology and genomics inspired me to transition into bioscience research. 
 
 As a **Post-baccalaureate Scholar** at the **Fred Hutch Cancer Center** in Seattle, I investigated RIT1-driven lung cancer utilizing single-cell and epigenomic methods. I have gained a strong background in genomics, with training in both experimental data generation and computational analysis. My long-term goal is to become an independent investigator developing innovative approaches in cancer biology and genomics and contribute to advancement of human health.
 
