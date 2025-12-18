@@ -1,5 +1,5 @@
 
-## 🧬 About Me
+## About Me
 
 I am a PhD student in **Genome Sciences** department at **Univesity of Washington, Seattle**. I am passionate about innovating genomic tools and computational approaches to address key biological questions and human diseases. I completed my undergrad in mechanical engineering from **IIT Kanpur**, where my curiosity in cellular biology and genomics inspired me to transition into bioscience research. 
 
@@ -7,7 +7,7 @@ As a **Post-baccalaureate Scholar** at the **Fred Hutch Cancer Center** in Seatt
 
 ---
 
-## 🎓 Education
+## Education
 
 **Graduate student**  
 *Genome Sciences @ University of Washington - Seattle* (Fall 2025 - present)
@@ -19,7 +19,7 @@ GPA: 8.7 *(with Distinction)*
 
 ---
 
-## 🧪 Research Interests
+## Research Interests
 
 - Cancer Biology  
 - Genomics & Epigenomics  
@@ -27,7 +27,7 @@ GPA: 8.7 *(with Distinction)*
 
 ---
 
-## 🔬 Research Experience
+## Research Experience
 
 **Fred Hutch Cancer Center – Seattle, WA**  
 *Research Technician I, Post-baccalaureate Scholar*  
@@ -49,15 +49,15 @@ GPA: 8.7 *(with Distinction)*
 
 ---
 
-## 🧾 Publications & Presentations
+## Publications & Presentations
 
-- 📄 *Mutant RIT1 cooperates with YAP to drive an EMT-like lung cancer state* (Cell Reports; DOI: 10.1016/j.celrep.2025.116185)  
-- 🎤 *Single-cell profiling of RIT1-mutant tumor model reveals an EMT phenotype* – Fred Hutch Post-baccalaureate Symposium (2024)  
-- 🎤 *Paralog transcriptional adaptation through functional genomics* – Fred Hutch Human Biology Retreat (2023)
+- *Mutant RIT1 cooperates with YAP to drive an EMT-like lung cancer state* (Cell Reports; DOI: 10.1016/j.celrep.2025.116185)  
+- *Single-cell profiling of RIT1-mutant tumor model reveals an EMT phenotype* – Fred Hutch Post-baccalaureate Symposium (2024)  
+- *Paralog transcriptional adaptation through functional genomics* – Fred Hutch Human Biology Retreat (2023)
 
 ---
 
-## 🌱 Outreach & Mentoring
+## Outreach & Mentoring
 
 I’m committed to increasing access and representation in science, especially for underserved communities. At IIT Kanpur, I led a rural teaching initiative through the National Service Scheme to boost STEM participation among young students, with an emphasis on female enrollment.
 
@@ -65,7 +65,7 @@ At Fred Hutch, I participated in the **Openscapes Champions Program**, promoting
 
 ---
 
-## 📫 Contact
+## Contact
 
 📧 [saksham.gupta.y19@gmail.com](mailto:saksham.gupta.y19@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/saksham-gupta-392a3a202/)  
