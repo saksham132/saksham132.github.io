@@ -1,0 +1,14 @@
+---
+layout: default
+nav: Research
+---
+<article class="paper">
+  <p class="meta"><a href="{{ '/research/#reading' | relative_url }}">← Papers I’ve read</a></p>
+  <h1>{{ page.title }}</h1>
+  <p class="meta">
+    {% if page.authors %}{{ page.authors }}{% endif %}{% if page.journal %} · <i>{{ page.journal }}</i>{% endif %}{% if page.year %} ({{ page.year }}){% endif %}
+    {% if page.link %}· <a href="{{ page.link }}">paper</a>{% endif %}
+    <br>Week of {{ page.date | date: "%b %-d, %Y" }}
+  </p>
+  {{ content }}
+</article>
