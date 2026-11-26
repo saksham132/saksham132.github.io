@@ -1,17 +1,37 @@
 title: Saksham Gupta
-description: Aspiring Biomedical Scientist
-logo: assets/self_pic.jpg
-social_links:
-  - name: Gmail
-    icon: 📧
-    url: mailto:saksham.gupta.y19@gmail.com
-  - name: LinkedIn
-    icon: 🔗
-    url: https://www.linkedin.com/in/saksham-gupta-392a3a202/
-  - name: GitHub
-    icon: 🐙
-    url: https://github.com/saksham132
+tagline: PhD student, Genome Sciences, University of Washington
+description: Personal website of Saksham Gupta — genome editing, RNA biology, and things outside the lab.
+url: "https://saksham132.github.io"
+baseurl: ""
 
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-  - jekyll-remote-theme
+email: saksham.gupta.y19@gmail.com
+github: saksham132
+linkedin: saksham-gupta-392a3a202
+# scholar: ""      # add your Google Scholar profile URL to show it in the footer
+# orcid: ""        # add your ORCID (e.g. 0000-0000-0000-0000)
+# bluesky: ""
+
+# Top navigation (edit labels/order here)
+nav:
+  - { title: About,         url: / }
+  - { title: Research,      url: /research/ }
+  - { title: Non-research,  url: /non-research/ }
+  - { title: Off the Bench, url: /off-the-bench/ }
+
+markdown: kramdown
+future: true            # so a post dated "today" always shows up
+
+collections:
+  papers:
+    output: true
+    permalink: /research/papers/:name/
+  songs:
+    output: false
+  photos:
+    output: false
+
+defaults:
+  - scope: { path: "", type: papers }
+    values: { layout: paper }
+
+exclude: [README.md, SITE_CHECKLIST.md, _templates]
