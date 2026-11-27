@@ -4,19 +4,20 @@ description: Personal website of Saksham Gupta — genome editing, RNA biology, 
 url: "https://saksham132.github.io"
 baseurl: ""
 
-email: saksham.gupta.y19@gmail.com
+email: gsaksham@uw.edu
 github: saksham132
 linkedin: saksham-gupta-392a3a202
-# scholar: ""      # add your Google Scholar profile URL to show it in the footer
+scholar: ""        # paste your Google Scholar profile URL here (shows the icon on the home page and footer)
 # orcid: ""        # add your ORCID (e.g. 0000-0000-0000-0000)
 # bluesky: ""
 
 # Top navigation (edit labels/order here)
 nav:
-  - { title: About,         url: / }
-  - { title: Research,      url: /research/ }
-  - { title: Non-research,  url: /non-research/ }
+  - { title: About me,     url: / }
+  - { title: Research,     url: /research/ }
   - { title: Off the Bench, url: /off-the-bench/ }
+
+cv: /assets/GuptaSaksham_CV_GS.pdf   # replace this file (same name) when the CV is final
 
 markdown: kramdown
 future: true            # so a post dated "today" always shows up

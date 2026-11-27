@@ -3,7 +3,7 @@
     <a href="mailto:{{ site.email }}">Email</a>
     {% if site.github %}<a href="https://github.com/{{ site.github }}">GitHub</a>{% endif %}
     {% if site.linkedin %}<a href="https://www.linkedin.com/in/{{ site.linkedin }}">LinkedIn</a>{% endif %}
-    {% if site.scholar %}<a href="{{ site.scholar }}">Google Scholar</a>{% endif %}
+    {% if site.scholar and site.scholar != "" %}<a href="{{ site.scholar }}">Google Scholar</a>{% endif %}
     {% if site.orcid %}<a href="https://orcid.org/{{ site.orcid }}">ORCID</a>{% endif %}
     {% if site.bluesky %}<a href="{{ site.bluesky }}">Bluesky</a>{% endif %}
   </p>

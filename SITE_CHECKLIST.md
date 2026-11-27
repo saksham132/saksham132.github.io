@@ -20,13 +20,13 @@
 - [ ] Unpublished work: confirm you're comfortable with what the Shendure Lab entry reveals (insertion library, FACS enrichment)
 - [ ] CV link points to the OLD pdf: replace it (see C)
 
-**Non-research**
+**Off the Bench**
 - [ ] Add your role and a sentence for Sunday Science and the GS Retreat
 - [ ] Add other outreach programs (your notes mention outreach for underrepresented communities, but the CV only lists these)
 
-**Off the Bench**
-- [ ] Is "Off the Bench" the title you want? (change in `_config.yml` nav and the page title in `off-the-bench.md`)
+**Off the Bench** (Teaching and service, Photography, Guitar, Miscellaneous)
 - [ ] Add your first photo and first song to see the layout with real content
+- [ ] Fill in Miscellaneous (puzzles etc.)
 
 **Footer / all pages**
 - [ ] Email is saksham.gupta.y19@gmail.com: keep, or switch to a UW / HHMI address
@@ -38,7 +38,6 @@
 - [ ] **CV content** (your list of changes pending). From my read of it: stray "ˇ" before the Cancer GeVo talk; no PMID on the paper; skills list has no prime editing, FACS or NGS pipeline / HPC work; "Developmental Biology" in research interests vs. genome editing and RNA biology on the site; GS Retreat and Sunday Science entries have no detail
 - [ ] **Not tested with real Jekyll:** I couldn't install it, so the first GitHub build is the real test (my browser preview used a stand-in renderer)
 - [ ] **Fonts:** Avenir only shows on Apple devices; Windows and Android get Nunito Sans (similar)
-- [ ] Phone nav wraps to two lines; fine, but shorten "Off the Bench" if it bothers you
 - [ ] `assets/files` is a stray 1-byte file from the old site; safe to delete
 
 ## D. Nice to have later

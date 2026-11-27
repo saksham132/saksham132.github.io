@@ -16,7 +16,7 @@ The home page, Research page and Off the Bench page update on their own.
 
 ## Editing pages
 
-- `index.md` (About), `research.md`, `non-research.md`, `off-the-bench.md`
+- `index.md` (About me), `research.md`, `off-the-bench.md`
 - Nav labels and links in `_config.yml`
 - Colors and fonts in `assets/css/style.css`
 - CV: replace `assets/GuptaSaksham_CV_GS.pdf` (keep the same filename so the link keeps working)
